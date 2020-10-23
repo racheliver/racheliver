@@ -1,6 +1,10 @@
 
 ### Hi there 👋!
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/38000606/97017494-a84e3300-1556-11eb-94e5-8ada7b5631db.gif)
+
+
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm [Racheli Verechzon][website]  Computer Science and Engineering
@@ -67,8 +71,6 @@
 [linkedin]: https://www.linkedin.com/in/racheli-verechzon-5343bb123/
 [Spotify]: https://open.spotify.com/user/31tnttfhh73nx44zimoaeofqyi6u
 
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/38000606/97017494-a84e3300-1556-11eb-94e5-8ada7b5631db.gif)
 
 
 
