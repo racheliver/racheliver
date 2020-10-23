@@ -7,9 +7,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm [Racheli Verechzon][website]  Computer Engineer
+### I'm [Racheli Verechzon][website] Computer Engineer
 
-- 👨‍💻 I’m currently working on web development technologies Strong knowledge: JavaScript, React, CSS etc.
+- 👨‍💻 I’m currently working on web development technologies JavaScript, React, CSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
