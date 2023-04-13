@@ -8,10 +8,10 @@
 
 ### I'm [Racheli Verechzon][website] Software Engineer
 
-- 👨‍💻 Currently working on web development technologies JavaScript, React, CSS etc.
+- 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to play snooker 🎱.
 
 ---
 
