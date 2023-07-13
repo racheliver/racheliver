@@ -29,7 +29,7 @@
 ### Contact with me 📝
 
 [<img align="left" height="30px" alt="Website" />][website]
-[<img align="left" height="30px" alt="linkedin" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" height="30px" alt="linkedin" src="https://img.icons8.com/color/48/linkedin.png"/>][linkedin]
 [<img align="left" height="30px" alt="Spotify" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
