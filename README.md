@@ -12,7 +12,7 @@
 - 📚 Learning everything about AI Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play snooker and listen eminem music 🎱.
-- 💪🏼 Writing inspiring qouts, social science, psychology, and neuroscience podcasts.
+- 💪🏼 Writing inspiring quotes, social science, psychology, and neuroscience podcasts.
 
 ---
 
