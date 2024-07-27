@@ -6,13 +6,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm [Racheli Verechzon][website] Software Engineer
+### Hi, I'm [Racheli Verechzon][website] Software Engineer
 
-- 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS etc.
-- 📚 Learning everything about AI Frontend and Backend technologies 😉
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play snooker and listen eminem music 🎱.
-- 💪🏼 Writing inspiring quotes, social science, psychology, and neuroscience podcasts.
+- 📚 Passionate Learner: Diving deep into AI, both frontend and backend technologies,and constantly expanding my tech stack.
+
+- 💡 Future Goals: To continuously learn and innovate, bringing new ideas to life through technology.
 
 ---
 
